@@ -24,7 +24,7 @@ The goal of this port is to mirror the original C++ pipeline and keep output par
 
 ## Run
 
-From `odinversion/`:
+Render one:
 
 ```sh
 odin run . -collection:tr=. -- ./obj/african_head/african_head.obj
